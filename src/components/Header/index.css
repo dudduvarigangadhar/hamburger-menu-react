@@ -1,0 +1,32 @@
+.logo-img {
+  height: 30px;
+}
+
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+}
+
+.close-icon {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.hamburger-view-container {
+  /* height: 100vh; */
+}
+
+.link-route-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* text-decoration: none */
+}
+
+.content {
+  text-decoration: none;
+}
